@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Laurencio</h1>
 <h3 align="center">passionate about learning web development</h3>
 
-<p align="left"> <a href="https://twitter.com/csteamcode1" target="blank"><img src="https://img.shields.io/twitter/follow/csteamcode1?logo=twitter&style=for-the-badge" alt="csteamcode1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Laurencio_dev" target="blank"><img src="https://img.shields.io/twitter/follow/csteamcode1?logo=twitter&style=for-the-badge" alt="csteamcode1" /></a> </p>
 
 - 📫 Enviame un correo **laurenciocast.2019@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/laurencio20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="laurencio20" height="30" width="40" /></a>
-<a href="https://twitter.com/csteamcode1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="csteamcode1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/laurencio20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurencio20" height="30" width="40" /></a>
+<a href="https://codepen.io/laurencio20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="laurencio20" height="30" width="40" /></a>
+<a href="https://twitter.com/Laurencio_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="csteamcode1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/laurencio20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurencio20" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19576966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19576966" height="30" width="40" /></a>
 <a href="https://fb.com/laurencio.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laurencio.dev" height="30" width="40" /></a>
-<a href="https://instagram.com/laurencio_lr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laurencio_lr" height="30" width="40" /></a>
+<a href="https://instagram.com/laurencio_lr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laurencio_lr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
