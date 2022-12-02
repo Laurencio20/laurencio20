@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laurencio</h1>
 <h3 align="center">passionate about learning web development</h3>
 
-<p align="left"> <a href="https://twitter.com/Laurencio_dev" target="blank"><img src="https://img.shields.io/twitter/follow/csteamcode1?logo=twitter&style=for-the-badge" alt="csteamcode1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/laurencio_dev" target="blank"><img src="https://img.shields.io/twitter/follow/laurencio_dev?logo=twitter&style=for-the-badge" alt="laurencio_dev" /></a> </p>
 
 - 📫 Enviame un correo **laurenciocast.2019@gamil.com**
 
