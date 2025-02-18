@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/laurencio_dev" target="blank"><img src="https://img.shields.io/twitter/follow/laurencio_dev?logo=twitter&style=for-the-badge" alt="laurencio_dev" /></a> </p>
 
-- 📫 Enviame un correo **laurenciocast.2019@gamil.com**
+- 📫 Enviame un correo **laurencio@ondastec.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
